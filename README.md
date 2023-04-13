@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hi there 👋 I´m Pablo Rojo </h1>
+<img src="https://user-images.githubusercontent.com/128259399/231845679-87d7ca55-52c2-4f41-87ae-13ba8888f668.png">
+</div>
 
-<!--
-**NuwandaCreations/NuwandaCreations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📲 Android Developer since 2022.
+- 👨‍🎓 Industrial Organization Engineer from the University of Zaragoza.
+- 👨‍💼 Currently doing an internship at Optiva Media company from 20/04/2023 to 19/10/2023 in the android development team.
+- 👮‍♂️ Infantry Liutenant in the Spanish Army. I have more than 10 years experience leading medium and large teams (20-120 people).
+- 📚 Actually studying Master in Android Application Development at TECH University.
+<br>
