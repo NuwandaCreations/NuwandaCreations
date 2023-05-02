@@ -7,7 +7,7 @@
 
 - 📲 Android Developer since 2021 (with Kotlin).
 - 👨‍🎓 Industrial Organization Engineer from the University of Zaragoza.
-- 👨‍💼 Currently doing an internship at Optiva Media company from 20/04/2023 to 19/10/2023 at the Android Development Team.
+- 👨‍💼 Currently doing an internship at Optiva Media company from 20/04/2023 to 19/10/2023 at the Android Development Team (Multiscreen platforms).
 - 👮‍♂️ Infantry Liutenant in the Spanish Army. I have more than 9 years experience leading medium and large teams (20-120 people).
 - 📚 Actually studying Master in Android Application Development at TECH University.
 <br>
